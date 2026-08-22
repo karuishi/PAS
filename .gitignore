@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Java bytecode
+*.class
+
 # Virtual environments
 .venv/
 venv/
