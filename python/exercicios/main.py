@@ -1,5 +1,5 @@
-from Login import Login
-from LoginEspecial import LoginEspecial
+from python.exercicios.Login import Login
+from python.exercicios.LoginEspecial import LoginEspecial
 
 def main():
     usuario = Login("eduardo", "123")

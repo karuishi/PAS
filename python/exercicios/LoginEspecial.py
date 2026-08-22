@@ -1,4 +1,4 @@
-from Login import Login
+from python.exercicios.Login import Login
 
 class LoginEspecial(Login): # b)
     def __init__(self, nome, senha):
